@@ -1,3 +1,4 @@
 # MyTheme
  My own theme(from the Internet)
-PS:Use them as your own 
+
+PS:Use them as your own risk
