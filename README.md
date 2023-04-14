@@ -1,4 +1,3 @@
-# MyTheme
- My own theme(from the Internet)
+自己的一个莫名其妙的壁纸仓库
 
-PS:Use them as your own risk
+目前需要：福瑞壁纸，或者不是也行
